@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Calculadora", "01 - Calculadora", "{3C238486-2912-4D4A-8BF1-CB5456B2FE4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora.Csharp", "Calculadora Csharp\Calculadora.Csharp.csproj", "{5AE0FA93-B1CA-4E65-9235-4AAE8873D246}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Ler String - Qtd Vogais", "02 - Ler String - Qtd Vogais", "{0EEE7FC6-A9BC-4A63-A785-06B641CBDDBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LerString.QtdVogais", "LerString.QtdVogais\LerString.QtdVogais.csproj", "{3FCA8B01-54D7-4214-89A5-F57BE5CDB697}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Ler String - Imp Consoantes", "04 - Ler String - Imp Consoantes", "{AB498051-26B0-4BCA-B02D-54D18A38DC24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LerString.ImpConsoantes", "LerString.QtdConsoantes\LerString.ImpConsoantes.csproj", "{F4084491-AA35-441F-B62B-B20F532A12E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Ler String - Imp Vogais", "03 - Ler String - Imp Vogais", "{3BB830DC-D584-4421-957D-316444AD5F0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LerString.ImpVogais", "LerString.ImpVogais\LerString.ImpVogais.csproj", "{D1CCC76D-4884-4087-9DAB-540AD3635022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AE0FA93-B1CA-4E65-9235-4AAE8873D246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE0FA93-B1CA-4E65-9235-4AAE8873D246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE0FA93-B1CA-4E65-9235-4AAE8873D246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE0FA93-B1CA-4E65-9235-4AAE8873D246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FCA8B01-54D7-4214-89A5-F57BE5CDB697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCA8B01-54D7-4214-89A5-F57BE5CDB697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCA8B01-54D7-4214-89A5-F57BE5CDB697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCA8B01-54D7-4214-89A5-F57BE5CDB697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4084491-AA35-441F-B62B-B20F532A12E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4084491-AA35-441F-B62B-B20F532A12E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4084491-AA35-441F-B62B-B20F532A12E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4084491-AA35-441F-B62B-B20F532A12E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1CCC76D-4884-4087-9DAB-540AD3635022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CCC76D-4884-4087-9DAB-540AD3635022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CCC76D-4884-4087-9DAB-540AD3635022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CCC76D-4884-4087-9DAB-540AD3635022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5AE0FA93-B1CA-4E65-9235-4AAE8873D246} = {3C238486-2912-4D4A-8BF1-CB5456B2FE4F}
+		{3FCA8B01-54D7-4214-89A5-F57BE5CDB697} = {0EEE7FC6-A9BC-4A63-A785-06B641CBDDBA}
+		{F4084491-AA35-441F-B62B-B20F532A12E4} = {AB498051-26B0-4BCA-B02D-54D18A38DC24}
+		{D1CCC76D-4884-4087-9DAB-540AD3635022} = {3BB830DC-D584-4421-957D-316444AD5F0E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02675ACE-932A-4FD1-BB17-933108293272}
+	EndGlobalSection
+EndGlobal
